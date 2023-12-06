@@ -1,0 +1,21 @@
+.btn button {
+  background-color: white;
+  display: inline-flex;
+  padding: 0.475rem 1.10063rem 0.5125rem 1.0625rem;
+  justify-content: center;
+  align-items: center;
+  border-radius: 3.125rem;
+  border: 1px solid rgba(0, 0, 0, 0.87);
+
+  color: rgba(0, 0, 0, 0.87);
+  font-size: 0.85rem;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 1.05rem; /* 123.529% */
+
+  cursor: pointer;
+}
+    
+.btn button:hover {
+    background-color: #c4c4c4;
+}

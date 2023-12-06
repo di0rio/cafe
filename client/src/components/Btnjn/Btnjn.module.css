@@ -1,0 +1,24 @@
+.btn button {
+  display: inline-flex;
+  padding: 0.475rem 1.08125rem 0.5125rem 1.0625rem;
+  justify-content: center;
+  align-items: center;
+  border-radius: 3.125rem;
+  border: 1px solid #000;
+  background: #000;
+
+  color: #fff;
+  font-family: Inter;
+  font-size: 0.8625rem;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 1.05rem; /* 121.739% */
+  letter-spacing: -0.01rem;
+
+  cursor: pointer;
+}
+
+.btn button:hover {
+    background-image: linear-gradient(to bottom right, #cfcfcf, #d6d6d6);
+    transition: all 0.3s ease-in-out;
+}
